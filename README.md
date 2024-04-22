@@ -1,7 +1,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HoangGiang93&show_icons=true&include_all_commits=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ichumuh&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
-- 👋 Hi, I’m Hoang Giang Nguyen
+- 👋 Hi, I’m Giang Nguyen
 - 👀 I’m interested in robotics and artificial intelligence
 - 🌱 I’m currently learning AI in robotics
 - 💞️ I’m looking to collaborate on robotics simulation
